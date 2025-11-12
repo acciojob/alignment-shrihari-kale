@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.middle{
+	width:101%;
+	border: solid 1px black;
+}
+#t11 td{
+	border: solid 1px black;
+}
+#t12 td{
+	border: solid 1px black;
+}
+#t13 td{
+	border: solid 1px black;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
